@@ -1,0 +1,46 @@
+Albania, Tirana
+Andora, Andora
+Austria, Wiedeñ
+Belgia, Bruksela
+Bia³oruœ, Miñsk
+Boœnia i Hercegowina, Sarajewo
+Bu³garia, Sofia
+Chorwacja, Zagrzeb
+Czarnogóra, Podgorica
+Czechy, Praga
+Dania, Kopenhaga
+Estonia, Tallin
+Finlandia, Helsinki
+Francja, Pary¿
+Grecja, Ateny
+Hiszpania, Madryt
+Holandia, Amsterdam
+Irlandia, Dublin
+Islandia, Reykjavik
+Kazachstan, Astana
+Liechtenstein, Vaduz
+Litwa, Wilno
+Luksemburg, Luksemburg
+£otwa, Ryga
+Macedonia, Skopje
+Malta, Valletta
+Mo³dawia, Kiszyniów
+Monako, Monako
+Niemcy, Berlin
+Norwegia, Oslo
+Polska, Warszawa
+Portugalia, Lizbona
+Rosja, Moskwa
+Rumunia, Bukareszt
+San Marino, San Marino
+Serbia, Belgrad
+S³owacja, Bratys³awa
+S³owenia, Lublana
+Szwajcaria, Berno
+Szwecja, Sztokholm
+Turcja, Ankara
+Ukraina, Kijów
+Watykan, Watykan
+Wêgry, Budapeszt
+Wielka Brytania, Londyn
+W³ochy, Rzym
